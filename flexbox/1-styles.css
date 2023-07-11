@@ -304,13 +304,16 @@
   }
   
   /*** 3. SECTION ***/
-  
-  /* Section (all styles)
-      ============================= */
-    .section-services { padding: var(--section-padding);
+
+  .section-services { padding: var(--section-padding);
 
     }
+  /* Section (all styles)
+      ============================= */
+    
+      .section-services { padding: var(--section-padding);
 
+      }
   .section-works { padding: var(--section-padding);
 
     }
