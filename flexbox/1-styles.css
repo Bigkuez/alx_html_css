@@ -310,7 +310,10 @@
     .section-services { padding: var(--section-padding);
 
     }
-  
+
+  .section-works { padding: var(--section-padding);
+
+    }
   .section {
     padding: var(--section-padding);
   }
