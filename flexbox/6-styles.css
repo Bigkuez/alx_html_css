@@ -225,6 +225,11 @@
     margin: var(--nav-item-margin);
     
   }
+  .nav .nav-item + .nav-item {
+    margin: 0; 
+  }
+
+
   .nav .nav-link {
     display: block;
     padding: 0.5rem 0;
